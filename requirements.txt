@@ -1,0 +1,8 @@
+asyncio
+aiohttp
+lxml
+PySocks
+Telethon
+xlrd
+Pandas
+mysql-connector
